@@ -3,15 +3,15 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Feb 14 17:20:17 2025</timestamp>
-			<uuid>{2c52173c-8dc5-4c98-8cf1-9b8cdb408978}</uuid>
+			<timestamp>Feb 15 13:31:35 2025</timestamp>
+			<uuid>{819ff491-1b33-46dd-9140-dda86f5f0a13}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/w/home.24/home/vineelchandra99/ece215e/proj_git/RX_CTLE_Adaptation/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<runlog>/w/home.26/home/sparshwairya/ece215e/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlog>/w/home.24/home/vineelchandra99/ece215e/proj_git/RX_CTLE_Adaptation/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
-			<psfdir>/w/home.26/home/sparshwairya/simulation/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<psfdir>/w/home.24/home/vineelchandra99/simulation/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/ece215e/trial1/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 	</history>
