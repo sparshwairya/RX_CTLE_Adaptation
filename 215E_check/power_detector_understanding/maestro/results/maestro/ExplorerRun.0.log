@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Feb 27 11:26:47 2025 
+Best design point: 1
+Design specs: 
+	215E_check_power_detector_understanding_1	corner	Nominal - 
+	average(((vtime('tran "/VoHP") - vtime('tran "/VoHM"))**2))		72.8m
+	average(((vtime('tran "/VoLP") - vtime('tran "/VoLM"))**2))		79.96m
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu Feb 27 11:26:59 2025 

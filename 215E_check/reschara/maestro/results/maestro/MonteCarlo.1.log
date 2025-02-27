@@ -1,0 +1,77 @@
+Starting Monte Carlo Sampling...
+
+Current time: Mon Feb 17 13:58:43 2025 
+
+Variation: Mismatch
+Sampling Method: Low-Discrepancy Sequence
+Seed: 12345
+
+MonteCarlo.1
+Number of points completed: 200
+Number of simulation errors: 0
+MonteCarlo.1 completed. 
+Current time: Mon Feb 17 14:00:15 2025 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 8
+215E_check_reschara_1	nom - 
+	ROXIDE1:	Yield	100%
+		Min 2564.37	Max 2564.37	Mean 2564.37	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE1-ROXIDE2:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE2:	Yield	100%
+		Min 2564.37	Max 2564.37	Mean 2564.37	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE_percent_change:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI1:	Yield	100%
+		Min 6392.86	Max 6392.86	Mean 6392.86	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI1-RSTI2:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI2:	Yield	100%
+		Min 6392.86	Max 6392.86	Mean 6392.86	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI_percent_change:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+
+215E_check_reschara_1
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+Estimated yield = 100% (200/200), 0 errors
+Estimated yield (No opregions) = 100% (200/200)
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 8
+215E_check_reschara_1	nom - 
+	ROXIDE1:	Yield	100%
+		Min 2564.37	Max 2564.37	Mean 2564.37	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE1-ROXIDE2:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE2:	Yield	100%
+		Min 2564.37	Max 2564.37	Mean 2564.37	Number of errors 0
+215E_check_reschara_1	nom - 
+	ROXIDE_percent_change:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI1:	Yield	100%
+		Min 6392.86	Max 6392.86	Mean 6392.86	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI1-RSTI2:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI2:	Yield	100%
+		Min 6392.86	Max 6392.86	Mean 6392.86	Number of errors 0
+215E_check_reschara_1	nom - 
+	RSTI_percent_change:	Yield	100%
+		Min 0	Max 0	Mean 0	Number of errors 0
+
+215E_check_reschara_1
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+Estimated yield = 100% (200/200), 0 errors
+Estimated yield (No opregions) = 100% (200/200)
