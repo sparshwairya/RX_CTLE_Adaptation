@@ -30,7 +30,14 @@
 						<value>active</value>
 					</option>
 				</tooloptions>
-				<vars></vars>
+				<vars>
+					<var>res
+						<value>2.842K 3.1578K 3.55K</value>
+					</var>
+					<var>tb
+						<value>50p 55.556p 62.5p</value>
+					</var>
+				</vars>
 				<outputs>
 					<output>average(clip((VT("/VOUT1") + VT("/VOUT2")) 1e-07 1e-06))
 						<evalType>point</evalType>
@@ -39,6 +46,7 @@
 						<evalType>point</evalType>
 					</output>
 				</outputs>
+				<variablesets></variablesets>
 			</test>
 		</tests>
 		<extensions>

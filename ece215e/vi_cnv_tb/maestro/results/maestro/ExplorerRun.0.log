@@ -1,14 +1,14 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Fri Feb 28 20:24:58 2025 
+Current time: Sat Mar  1 13:08:40 2025 
 Best design point: 1
 Design specs: 
 	ece215e_vi_cnv_tb_1	corner	Nominal - 
-	average(clip(IT("/I0/Vctrl") 2e-07 1e-06))		5.1n
+	average(clip(IT("/I0/Vctrl") 2e-07 1e-06))		-13.98n
 Design parameters: 
 
 ExplorerRun.0
 Number of points completed: 1
 Number of simulation errors: 0
 ExplorerRun.0 completed. 
-Current time: Fri Feb 28 20:25:22 2025 
+Current time: Sat Mar  1 13:09:21 2025 

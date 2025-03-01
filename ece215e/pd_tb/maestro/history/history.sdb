@@ -27,8 +27,8 @@
 			<simdir>$AXL_PROJECT_DIR/ece215e/pd_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Feb 28 20:23:29 2025</timestamp>
-			<uuid>{d75985e0-5639-4308-95ea-466db431a56c}</uuid>
+			<timestamp>Mar 1 13:00:13 2025</timestamp>
+			<uuid>{761888d8-4b3e-4f3b-bd48-be2d4c9f878d}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/pd_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
