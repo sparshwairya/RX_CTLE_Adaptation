@@ -1,13 +1,13 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Fri Feb 14 17:20:18 2025 
+Current time: Wed Feb 19 15:31:10 2025 
 Best design point: 1
 Design specs: 
-	ece215e_trial1_1	corner	Nominal - 
+	ece215e_pd_tb_1	corner	Nominal - 
 Design parameters: 
 
-ExplorerRun.0
+Interactive.1
 Number of points completed: 1
 Number of simulation errors: 0
-ExplorerRun.0 completed. 
-Current time: Fri Feb 14 17:20:28 2025 
+Interactive.1 completed. 
+Current time: Wed Feb 19 15:31:21 2025 
