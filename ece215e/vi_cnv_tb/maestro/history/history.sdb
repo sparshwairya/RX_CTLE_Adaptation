@@ -3,8 +3,8 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Feb 27 12:53:51 2025</timestamp>
-			<uuid>{7b379f48-e8ad-4cfc-8b2c-f11d9ba8c367}</uuid>
+			<timestamp>Feb 28 20:24:57 2025</timestamp>
+			<uuid>{38c9079e-a407-4b74-b6a3-737c6bc0c4f6}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>

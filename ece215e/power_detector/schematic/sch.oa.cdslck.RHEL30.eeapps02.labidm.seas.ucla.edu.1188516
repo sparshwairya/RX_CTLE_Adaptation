@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sparshwairya
+HostName                       eeapps02.labidm.seas.ucla.edu
+ProcessIdentifier              1188516
+ProcessCreationTime_UTC        1740802844
+ProcessCreationTime_Readable   Fri Feb 28 20:20:44 2025 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.26/home/sparshwairya/ece215e/ece215e/power_detector/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Feb 28 20:21:01 2025 PST

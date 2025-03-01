@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sparshwairya
+HostName                       eeapps02.labidm.seas.ucla.edu
+ProcessIdentifier              1188516
+ProcessCreationTime_UTC        1740802838
+ProcessCreationTime_Readable   Fri Feb 28 20:20:38 2025 PST
+AppIdentifier                  /w/apps4/Cadence/IC231/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/maestro.sdb
+TimeEditLocked                 Fri Feb 28 20:24:48 2025 PST
