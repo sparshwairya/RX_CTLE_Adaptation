@@ -31,11 +31,14 @@
 					</option>
 				</tooloptions>
 				<vars>
-					<var>res
-						<value>2.842K 3.1578K 3.55K</value>
-					</var>
 					<var>tb
 						<value>50p 55.556p 62.5p</value>
+					</var>
+					<var>VCC
+						<value>1.1 1.05 1.2</value>
+					</var>
+					<var>Vin_l
+						<value>0.88 0.83 0.98</value>
 					</var>
 				</vars>
 				<outputs>
@@ -46,7 +49,18 @@
 						<evalType>point</evalType>
 					</output>
 				</outputs>
-				<variablesets></variablesets>
+				<variablesets>
+					<variableset>0
+						<vars>
+							<var>VCC
+								<value></value>
+							</var>
+							<var>Vin_l
+								<value></value>
+							</var>
+						</vars>
+					</variableset>
+				</variablesets>
 			</test>
 		</tests>
 		<extensions>

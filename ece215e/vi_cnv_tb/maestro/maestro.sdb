@@ -36,6 +36,29 @@
 						<evalType>point</evalType>
 					</output>
 				</outputs>
+				<vars>
+					<var>Tb
+						<value>55.556p 45.45n 62.5n</value>
+					</var>
+					<var>VCC
+						<value>1.1 1.05</value>
+					</var>
+					<var>Vin_low
+						<value>0.88 0.83</value>
+					</var>
+				</vars>
+				<variablesets>
+					<variableset>0
+						<vars>
+							<var>VCC
+								<value></value>
+							</var>
+							<var>Vin_low
+								<value></value>
+							</var>
+						</vars>
+					</variableset>
+				</variablesets>
 			</test>
 		</tests>
 		<extensions>

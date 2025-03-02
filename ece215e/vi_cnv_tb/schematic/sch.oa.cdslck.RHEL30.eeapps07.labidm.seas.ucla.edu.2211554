@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Mar  2 12:58:21 2025 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /w/home.26/home/sparshwairya/ece215e/ece215e/power_detector/schematic/sch.oa.cdslck
-TimeEditLocked                 Sun Mar  2 13:43:23 2025 PST
+FilePathUsedToEditLock         /w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Mar  2 13:02:58 2025 PST
