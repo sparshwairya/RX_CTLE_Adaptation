@@ -38,7 +38,7 @@
 				</outputs>
 				<vars>
 					<var>Tb
-						<value>55.556p 45.45n 62.5n</value>
+						<value>100p 125p 83.33p</value>
 					</var>
 					<var>VCC
 						<value>1.1 1.05</value>
