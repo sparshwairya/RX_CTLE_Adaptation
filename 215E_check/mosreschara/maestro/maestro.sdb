@@ -102,6 +102,12 @@
 			<copyreferenceresults>1</copyreferenceresults>
 		</incrementalsimsetup>
 		<overwritehistoryname>ExplorerRun.0</overwritehistoryname>
+		<jobpolicyname>Maestro Default</jobpolicyname>
+		<netlistjobpolicyname>Netlisting Default</netlistjobpolicyname>
+		<allcornersenabled>1</allcornersenabled>
+		<incrementalsimulationoptions>
+			<incrementalSimulation>0</incrementalSimulation>
+		</incrementalsimulationoptions>
 	</active>
 	<history>History
 	</history>

@@ -2,9 +2,9 @@
 <setupdb version="7">history
 	<active>Active Setup</active>
 	<history>History
-		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Feb 26 18:20:46 2025</timestamp>
-			<uuid>{1810af97-6206-4ef2-b4ed-20705519849c}</uuid>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.0
+			<timestamp>Mar 2 14:21:39 2025</timestamp>
+			<uuid>{df478be4-9b0a-44ef-b133-fdad2f855ea7}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/w/home.03/home/gurusubramanian/ee215e/215E_check/mosreschara/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
