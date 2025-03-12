@@ -1,0 +1,13 @@
+Starting Monte Carlo Sampling...
+
+Current time: Mon Feb 17 13:53:28 2025 
+
+Variation: All
+Sampling Method: Low-Discrepancy Sequence
+Seed: 12345
+
+MonteCarlo.0
+Number of points completed: 200
+Number of simulation errors: 0
+MonteCarlo.0 completed. 
+Current time: Mon Feb 17 13:55:12 2025 

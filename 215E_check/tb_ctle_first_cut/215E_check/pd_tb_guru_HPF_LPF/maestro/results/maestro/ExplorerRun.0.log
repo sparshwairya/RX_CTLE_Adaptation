@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Mar 11 20:36:08 2025 
+Best design point: 1
+Design specs: 
+	ece215e_pd_tb_1	corner	Nominal - 
+	average(clip((VT("/VOUT1") - VT("/VOUT2")) 1e-07 1e-06))		899.3u
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 9
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Tue Mar 11 20:38:30 2025 

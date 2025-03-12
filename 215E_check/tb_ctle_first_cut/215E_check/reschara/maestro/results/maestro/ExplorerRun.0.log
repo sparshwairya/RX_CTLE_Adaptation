@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Feb 17 13:52:28 2025 
+Best design point: 1
+Design specs: 
+	215E_check_reschara_1	corner	nom - 
+	RSTI1		6.393K
+	RSTI2		6.393K
+	RSTI1-RSTI2		0
+	RSTI_percent_change		0
+	ROXIDE1		2.564K
+	ROXIDE2		2.564K
+	ROXIDE1-ROXIDE2		0
+	ROXIDE_percent_change		0
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Feb 17 13:52:40 2025 

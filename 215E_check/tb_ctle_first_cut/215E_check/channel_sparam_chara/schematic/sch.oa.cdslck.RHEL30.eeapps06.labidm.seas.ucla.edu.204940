@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      gurusubramanian
+HostName                       eeapps06.labidm.seas.ucla.edu
+ProcessIdentifier              204940
+ProcessCreationTime_UTC        1740708448
+ProcessCreationTime_Readable   Thu Feb 27 18:07:28 2025 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.03/home/gurusubramanian/ee215e/215E_check/channel_sparam_chara/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Feb 27 18:34:25 2025 PST
