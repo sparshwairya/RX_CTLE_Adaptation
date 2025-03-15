@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      sparshwairya
-HostName                       eeapps02.labidm.seas.ucla.edu
-ProcessIdentifier              784835
-ProcessCreationTime_UTC        1741988218
-ProcessCreationTime_Readable   Fri Mar 14 14:36:58 2025 PDT
+HostName                       eeapps01.labidm.seas.ucla.edu
+ProcessIdentifier              2389090
+ProcessCreationTime_UTC        1742072488
+ProcessCreationTime_Readable   Sat Mar 15 14:01:28 2025 PDT
 AppIdentifier                  /w/apps4/Cadence/IC231/tools/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
 FilePathUsedToEditLock         /w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/maestro.sdb
-TimeEditLocked                 Fri Mar 14 17:27:40 2025 PDT
+TimeEditLocked                 Sat Mar 15 15:13:30 2025 PDT

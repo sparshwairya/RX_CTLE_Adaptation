@@ -59,16 +59,37 @@
 					<output>average(clip((VT("/net1") - VT("/net2")) 5e-07 2e-06))
 						<evalType>point</evalType>
 					</output>
+					<output>average(clip(IT("/I0/Vctrl") 2e-07 1e-05))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(IT("/C0/PLUS") 5e-07 1e-05))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(VT("/Vctrl") 5e-07 1e-05))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/net1") - VT("/net2")) 5e-07 1e-05))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(IT("/I0/Vctrl") 2e-07 2e-06))
+						<evalType>point</evalType>
+					</output>
 				</outputs>
 				<vars>
 					<var>Tb
-						<value>100p</value>
+						<value>111.1p 100p</value>
 					</var>
 					<var>VCC
 						<value>1.1</value>
 					</var>
 					<var>Vin_low
 						<value>0.88</value>
+					</var>
+					<var>I
+						<value>250u</value>
+					</var>
+					<var>w
+						<value>2u</value>
 					</var>
 				</vars>
 				<variablesets>

@@ -3,12 +3,43 @@
 	<active>Active Setup
 		<jobcontrolmode>LSCS</jobcontrolmode>
 		<corners>
-			<corner enabled="1">_default</corner>
+			<corner enabled="0">_default</corner>
+			<corner enabled="0">C0
+				<vars>
+					<var>temperature
+						<value>-40</value>
+					</var>
+					<var>VCC
+						<value>1</value>
+					</var>
+					<var>Vin_l
+						<value>0.78</value>
+					</var>
+				</vars>
+				<models>
+					<model enabled="1">gpdk045.scs
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/w/apps4/public_libraries/tech/cadence/cadence/45nm/gpdk045_v_3_5/gpdk045/../models/spectre/gpdk045.scs</modelfile>
+						<modelsection>"ss"</modelsection>
+					</model>
+				</models>
+			</corner>
+			<corner enabled="1">C1
+				<models>
+					<model enabled="1">gpdk045.scs
+						<modeltest>All</modeltest>
+						<modelblock>Global</modelblock>
+						<modelfile>/w/apps4/public_libraries/tech/cadence/cadence/45nm/gpdk045_v_3_5/gpdk045/../models/spectre/gpdk045.scs</modelfile>
+						<modelsection>"tt"</modelsection>
+					</model>
+				</models>
+			</corner>
 		</corners>
 		<sharedvarinfo></sharedvarinfo>
 		<overwritehistory>0</overwritehistory>
 		<tests>
-			<test>ece215e_pd_tb_1
+			<test enabled="1">ece215e_pd_tb_1
 				<tool>ADE</tool>
 				<tooloptions>
 					<option>cell
@@ -32,7 +63,7 @@
 				</tooloptions>
 				<vars>
 					<var>tb
-						<value>83.33p 90.91p 100p 111.11p 125p</value>
+						<value>111.1p 100p</value>
 					</var>
 					<var>VCC
 						<value>1.1</value>
@@ -43,6 +74,9 @@
 					<var>I
 						<value>250u</value>
 					</var>
+					<var>w
+						<value>2u</value>
+					</var>
 				</vars>
 				<outputs>
 					<output>average(clip((VT("/VOUT1") + VT("/VOUT2")) 1e-07 1e-06))
@@ -52,18 +86,7 @@
 						<evalType>point</evalType>
 					</output>
 				</outputs>
-				<variablesets>
-					<variableset>0
-						<vars>
-							<var>VCC
-								<value></value>
-							</var>
-							<var>Vin_l
-								<value></value>
-							</var>
-						</vars>
-					</variableset>
-				</variablesets>
+				<variablesets></variablesets>
 			</test>
 		</tests>
 		<extensions>
