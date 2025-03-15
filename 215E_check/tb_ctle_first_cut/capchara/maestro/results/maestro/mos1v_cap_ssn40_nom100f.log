@@ -1,0 +1,544 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Feb 16 21:45:04 2025 
+Best design point: 1
+Design specs: 
+	215E_check_capchara_1	corner	ss_n40_1v_0 - 
+	capNMOS		23.24f
+	capPMOS		26.3f
+	nmos1v_cgg		23.23f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		26.29f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_1 - 
+	capNMOS		22.33f
+	capPMOS		25.38f
+	nmos1v_cgg		22.32f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		25.36f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_2 - 
+	capNMOS		21.5f
+	capPMOS		24.53f
+	nmos1v_cgg		21.49f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		24.52f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_3 - 
+	capNMOS		20.75f
+	capPMOS		23.75f
+	nmos1v_cgg		20.73f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		23.73f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_4 - 
+	capNMOS		20.05f
+	capPMOS		23.03f
+	nmos1v_cgg		20.04f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		23.01f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_5 - 
+	capNMOS		19.41f
+	capPMOS		22.36f
+	nmos1v_cgg		19.4f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		22.35f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_6 - 
+	capNMOS		18.82f
+	capPMOS		21.74f
+	nmos1v_cgg		18.81f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		21.73f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_7 - 
+	capNMOS		18.27f
+	capPMOS		21.16f
+	nmos1v_cgg		18.26f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		21.15f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_8 - 
+	capNMOS		17.76f
+	capPMOS		20.63f
+	nmos1v_cgg		17.76f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		20.62f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_9 - 
+	capNMOS		17.29f
+	capPMOS		20.13f
+	nmos1v_cgg		17.28f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		20.12f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_10 - 
+	capNMOS		16.86f
+	capPMOS		19.66f
+	nmos1v_cgg		16.85f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		19.65f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_11 - 
+	capNMOS		16.45f
+	capPMOS		19.23f
+	nmos1v_cgg		16.44f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		19.22f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_12 - 
+	capNMOS		16.06f
+	capPMOS		18.82f
+	nmos1v_cgg		16.05f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		18.81f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_13 - 
+	capNMOS		15.7f
+	capPMOS		18.43f
+	nmos1v_cgg		15.69f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		18.42f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_14 - 
+	capNMOS		15.36f
+	capPMOS		18.07f
+	nmos1v_cgg		15.35f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		18.06f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_15 - 
+	capNMOS		15.04f
+	capPMOS		17.72f
+	nmos1v_cgg		15.03f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		17.71f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_16 - 
+	capNMOS		14.74f
+	capPMOS		17.4f
+	nmos1v_cgg		14.73f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		17.39f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_17 - 
+	capNMOS		14.45f
+	capPMOS		17.09f
+	nmos1v_cgg		14.44f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		17.08f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_18 - 
+	capNMOS		14.17f
+	capPMOS		16.8f
+	nmos1v_cgg		14.16f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		16.79f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_19 - 
+	capNMOS		13.9f
+	capPMOS		16.52f
+	nmos1v_cgg		13.89f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		16.51f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_20 - 
+	capNMOS		13.64f
+	capPMOS		16.25f
+	nmos1v_cgg		13.63f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		16.25f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_21 - 
+	capNMOS		13.39f
+	capPMOS		16f
+	nmos1v_cgg		13.38f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.99f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_22 - 
+	capNMOS		13.15f
+	capPMOS		15.76f
+	nmos1v_cgg		13.14f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.75f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_23 - 
+	capNMOS		12.92f
+	capPMOS		15.52f
+	nmos1v_cgg		12.91f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.51f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_24 - 
+	capNMOS		12.71f
+	capPMOS		15.3f
+	nmos1v_cgg		12.7f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.29f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_25 - 
+	capNMOS		12.54f
+	capPMOS		15.05f
+	nmos1v_cgg		12.53f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.04f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_26 - 
+	capNMOS		12.43f
+	capPMOS		14.82f
+	nmos1v_cgg		12.42f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		14.81f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_27 - 
+	capNMOS		12.42f
+	capPMOS		14.62f
+	nmos1v_cgg		12.42f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		14.62f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_28 - 
+	capNMOS		12.6f
+	capPMOS		14.49f
+	nmos1v_cgg		12.6f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		14.48f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_29 - 
+	capNMOS		13.07f
+	capPMOS		14.48f
+	nmos1v_cgg		13.07f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		14.47f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_30 - 
+	capNMOS		13.97f
+	capPMOS		14.67f
+	nmos1v_cgg		13.96f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		14.66f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_31 - 
+	capNMOS		15.45f
+	capPMOS		15.21f
+	nmos1v_cgg		15.44f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		15.2f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_32 - 
+	capNMOS		17.67f
+	capPMOS		16.33f
+	nmos1v_cgg		17.66f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		16.32f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_33 - 
+	capNMOS		20.76f
+	capPMOS		18.29f
+	nmos1v_cgg		20.75f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		18.28f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_34 - 
+	capNMOS		24.77f
+	capPMOS		21.37f
+	nmos1v_cgg		24.76f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		21.36f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_35 - 
+	capNMOS		29.66f
+	capPMOS		25.77f
+	nmos1v_cgg		29.64f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		25.76f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_36 - 
+	capNMOS		35.26f
+	capPMOS		31.48f
+	nmos1v_cgg		35.24f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		31.46f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_37 - 
+	capNMOS		41.31f
+	capPMOS		38.25f
+	nmos1v_cgg		41.29f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		38.23f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_38 - 
+	capNMOS		47.52f
+	capPMOS		45.62f
+	nmos1v_cgg		47.5f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		45.6f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_39 - 
+	capNMOS		53.59f
+	capPMOS		53.05f
+	nmos1v_cgg		53.56f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		53.02f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_40 - 
+	capNMOS		59.27f
+	capPMOS		60.03f
+	nmos1v_cgg		59.24f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		60f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_41 - 
+	capNMOS		64.38f
+	capPMOS		66.25f
+	nmos1v_cgg		64.35f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		66.21f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_42 - 
+	capNMOS		68.86f
+	capPMOS		71.53f
+	nmos1v_cgg		68.83f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		71.49f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_43 - 
+	capNMOS		72.68f
+	capPMOS		75.86f
+	nmos1v_cgg		72.65f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		75.82f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_44 - 
+	capNMOS		75.89f
+	capPMOS		79.34f
+	nmos1v_cgg		75.85f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		79.3f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_45 - 
+	capNMOS		78.54f
+	capPMOS		82.09f
+	nmos1v_cgg		78.5f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		82.05f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_46 - 
+	capNMOS		80.71f
+	capPMOS		84.25f
+	nmos1v_cgg		80.67f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		84.21f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_47 - 
+	capNMOS		82.48f
+	capPMOS		85.93f
+	nmos1v_cgg		82.44f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		85.89f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_48 - 
+	capNMOS		83.93f
+	capPMOS		87.25f
+	nmos1v_cgg		83.89f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		87.21f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_49 - 
+	capNMOS		85.11f
+	capPMOS		88.28f
+	nmos1v_cgg		85.06f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		88.24f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_50 - 
+	capNMOS		86.07f
+	capPMOS		89.1f
+	nmos1v_cgg		86.03f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		89.06f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_51 - 
+	capNMOS		86.86f
+	capPMOS		89.75f
+	nmos1v_cgg		86.82f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		89.7f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_52 - 
+	capNMOS		87.52f
+	capPMOS		90.27f
+	nmos1v_cgg		87.47f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		90.22f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_53 - 
+	capNMOS		88.06f
+	capPMOS		90.68f
+	nmos1v_cgg		88.02f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		90.64f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_54 - 
+	capNMOS		88.52f
+	capPMOS		91.02f
+	nmos1v_cgg		88.47f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		90.98f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_55 - 
+	capNMOS		88.9f
+	capPMOS		91.3f
+	nmos1v_cgg		88.86f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.25f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_56 - 
+	capNMOS		89.23f
+	capPMOS		91.52f
+	nmos1v_cgg		89.18f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.47f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_57 - 
+	capNMOS		89.51f
+	capPMOS		91.7f
+	nmos1v_cgg		89.46f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.66f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_58 - 
+	capNMOS		89.75f
+	capPMOS		91.85f
+	nmos1v_cgg		89.71f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.81f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_59 - 
+	capNMOS		89.96f
+	capPMOS		91.97f
+	nmos1v_cgg		89.92f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.93f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_60 - 
+	capNMOS		90.14f
+	capPMOS		92.07f
+	nmos1v_cgg		90.1f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.02f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_61 - 
+	capNMOS		90.3f
+	capPMOS		92.14f
+	nmos1v_cgg		90.26f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.1f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_62 - 
+	capNMOS		90.44f
+	capPMOS		92.2f
+	nmos1v_cgg		90.4f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.15f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_63 - 
+	capNMOS		90.57f
+	capPMOS		92.24f
+	nmos1v_cgg		90.52f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.2f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_64 - 
+	capNMOS		90.67f
+	capPMOS		92.27f
+	nmos1v_cgg		90.63f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.23f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_65 - 
+	capNMOS		90.77f
+	capPMOS		92.29f
+	nmos1v_cgg		90.72f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.24f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_66 - 
+	capNMOS		90.85f
+	capPMOS		92.3f
+	nmos1v_cgg		90.81f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.25f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_67 - 
+	capNMOS		90.93f
+	capPMOS		92.29f
+	nmos1v_cgg		90.88f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.25f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_68 - 
+	capNMOS		91f
+	capPMOS		92.28f
+	nmos1v_cgg		90.95f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.23f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_69 - 
+	capNMOS		91.05f
+	capPMOS		92.26f
+	nmos1v_cgg		91.01f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.21f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_70 - 
+	capNMOS		91.1f
+	capPMOS		92.23f
+	nmos1v_cgg		91.06f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.19f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_71 - 
+	capNMOS		91.15f
+	capPMOS		92.2f
+	nmos1v_cgg		91.1f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.16f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_72 - 
+	capNMOS		91.18f
+	capPMOS		92.16f
+	nmos1v_cgg		91.14f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.12f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_73 - 
+	capNMOS		91.21f
+	capPMOS		92.12f
+	nmos1v_cgg		91.17f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.07f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_74 - 
+	capNMOS		91.24f
+	capPMOS		92.07f
+	nmos1v_cgg		91.19f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		92.02f
+	pmos2v_cgg		Error	No
+	215E_check_capchara_1	corner	ss_n40_1v_75 - 
+	capNMOS		91.26f
+	capPMOS		92.02f
+	nmos1v_cgg		91.22f
+	nmos2v_cgg		Error	No
+	pmos1v_cgg		91.97f
+	pmos2v_cgg		Error	No
+Design parameters: 
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Sun Feb 16 21:47:14 2025 

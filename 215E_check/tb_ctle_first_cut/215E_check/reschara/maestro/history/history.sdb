@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>Feb 17 13:52:27 2025</timestamp>
+			<uuid>{81b76faf-c5ed-4d6d-a848-bdb159ab2d61}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/w/home.03/home/gurusubramanian/simulation/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">MonteCarlo.0
+			<timestamp>Feb 17 13:53:27 2025</timestamp>
+			<uuid>{907cad87-532b-4086-94d0-bb6e803fc2fc}</uuid>
+			<locked>0</locked>
+			<mode>Monte Carlo Sampling</mode>
+			<resultsname>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/w/home.03/home/gurusubramanian/simulation/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">MonteCarlo.1
+			<timestamp>Feb 17 13:58:43 2025</timestamp>
+			<uuid>{bd3fba69-54b3-479a-a504-2367db11b794}</uuid>
+			<locked>0</locked>
+			<mode>Monte Carlo Sampling</mode>
+			<resultsname>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/w/home.03/home/gurusubramanian/ee215e/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/w/home.03/home/gurusubramanian/simulation/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/215E_check/reschara/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>

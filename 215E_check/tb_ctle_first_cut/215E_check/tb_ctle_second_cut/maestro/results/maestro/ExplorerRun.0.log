@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Mar 10 19:22:21 2025 
+Best design point: 1
+Design specs: 
+	215E_check_tb_ctle_first_cut_1	corner	Nominal - 
+	IT("/I2/C4/PLUS")		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Mon Mar 10 19:23:17 2025 

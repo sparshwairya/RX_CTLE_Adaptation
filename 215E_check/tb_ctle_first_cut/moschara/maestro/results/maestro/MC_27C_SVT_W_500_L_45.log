@@ -1,0 +1,161 @@
+Starting Monte Carlo Sampling...
+
+Current time: Mon Feb 17 13:19:44 2025 
+
+Variation: Mismatch
+Sampling Method: Low-Discrepancy Sequence
+Seed: 12345
+
+MonteCarlo.0
+Number of points completed: 200
+Number of simulation errors: 0
+MonteCarlo.0 completed. 
+Current time: Mon Feb 17 13:21:06 2025 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 22
+215E_check_moschara_1	nom - 
+	Vth_delta:	Yield	100%
+		Min -0.0213949	Max 0.0269041	Mean 0.00310814	Number of errors 0
+215E_check_moschara_1	nom - 
+	cdb_DUT:	Yield	100%
+		Min 2.66459e-19	Max 3.0513e-19	Mean 2.8416e-19	Number of errors 0
+215E_check_moschara_1	nom - 
+	cdd_DUT:	Yield	100%
+		Min 7.86167e-17	Max 8.04138e-17	Mean 7.96781e-17	Number of errors 0
+215E_check_moschara_1	nom - 
+	cds_DUT:	Yield	100%
+		Min 5.97347e-19	Max 8.90267e-19	Mean 7.30787e-19	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgb_DUT:	Yield	100%
+		Min 5.84019e-18	Max 6.55342e-18	Mean 6.29019e-18	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgd_DUT:	Yield	100%
+		Min 7.28177e-17	Max 7.47626e-17	Mean 7.39134e-17	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgg_DUT:	Yield	100%
+		Min 4.12542e-16	Max 4.23618e-16	Mean 4.18867e-16	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgs_DUT:	Yield	100%
+		Min 3.45564e-16	Max 3.5535e-16	Mean 3.51244e-16	Number of errors 0
+215E_check_moschara_1	nom - 
+	fT_CALC_DUT:	Yield	100%
+		Min 1.64334e+11	Max 1.67844e+11	Mean 1.6621e+11	Number of errors 0
+215E_check_moschara_1	nom - 
+	gds_DUT:	Yield	100%
+		Min 0.000121025	Max 0.000135073	Mean 0.000128532	Number of errors 0
+215E_check_moschara_1	nom - 
+	gm_DUT:	Yield	100%
+		Min 0.000430216	Max 0.00044592	Mean 0.000437215	Number of errors 0
+215E_check_moschara_1	nom - 
+	gmoverid_DUT:	Yield	100%
+		Min 2.05728	Max 2.33008	Mean 2.19409	Number of errors 0
+215E_check_moschara_1	nom - 
+	id_DUT:	Yield	100%
+		Min 0.000188587	Max 0.000209141	Mean 0.000199357	Number of errors 0
+215E_check_moschara_1	nom - 
+	ids_DUT:	Yield	100%
+		Min 0.000188587	Max 0.000209141	Mean 0.000199357	Number of errors 0
+215E_check_moschara_1	nom - 
+	region_DUT:	Yield	100%
+		Min 2	Max 2	Mean 2	Number of errors 0
+215E_check_moschara_1	nom - 
+	ron_DUT:	Yield	100%
+		Min 2390.74	Max 2651.3	Mean 2509.03	Number of errors 0
+215E_check_moschara_1	nom - 
+	rout_DUT:	Yield	100%
+		Min 7403.41	Max 8262.76	Mean 7783.31	Number of errors 0
+215E_check_moschara_1	nom - 
+	self_gain_DUT:	Yield	100%
+		Min 3.18539	Max 3.6096	Mean 3.40315	Number of errors 0
+215E_check_moschara_1	nom - 
+	vds_DUT:	Yield	100%
+		Min 0.5	Max 0.5	Mean 0.5	Number of errors 0
+215E_check_moschara_1	nom - 
+	vdsat_DUT:	Yield	100%
+		Min 0.321122	Max 0.341463	Mean 0.330621	Number of errors 0
+215E_check_moschara_1	nom - 
+	vgs_DUT:	Yield	100%
+		Min 1.10136	Max 1.13719	Mean 1.11668	Number of errors 0
+215E_check_moschara_1	nom - 
+	vth_DUT:	Yield	100%
+		Min 0.596791	Max 0.628783	Mean 0.610425	Number of errors 0
+
+215E_check_moschara_1
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+Estimated yield = 100% (200/200), 0 errors
+Estimated yield (No opregions) = 100% (200/200)
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 22
+215E_check_moschara_1	nom - 
+	Vth_delta:	Yield	100%
+		Min -0.0213949	Max 0.0269041	Mean 0.00310814	Number of errors 0
+215E_check_moschara_1	nom - 
+	cdb_DUT:	Yield	100%
+		Min 2.66459e-19	Max 3.0513e-19	Mean 2.8416e-19	Number of errors 0
+215E_check_moschara_1	nom - 
+	cdd_DUT:	Yield	100%
+		Min 7.86167e-17	Max 8.04138e-17	Mean 7.96781e-17	Number of errors 0
+215E_check_moschara_1	nom - 
+	cds_DUT:	Yield	100%
+		Min 5.97347e-19	Max 8.90267e-19	Mean 7.30787e-19	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgb_DUT:	Yield	100%
+		Min 5.84019e-18	Max 6.55342e-18	Mean 6.29019e-18	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgd_DUT:	Yield	100%
+		Min 7.28177e-17	Max 7.47626e-17	Mean 7.39134e-17	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgg_DUT:	Yield	100%
+		Min 4.12542e-16	Max 4.23618e-16	Mean 4.18867e-16	Number of errors 0
+215E_check_moschara_1	nom - 
+	cgs_DUT:	Yield	100%
+		Min 3.45564e-16	Max 3.5535e-16	Mean 3.51244e-16	Number of errors 0
+215E_check_moschara_1	nom - 
+	fT_CALC_DUT:	Yield	100%
+		Min 1.64334e+11	Max 1.67844e+11	Mean 1.6621e+11	Number of errors 0
+215E_check_moschara_1	nom - 
+	gds_DUT:	Yield	100%
+		Min 0.000121025	Max 0.000135073	Mean 0.000128532	Number of errors 0
+215E_check_moschara_1	nom - 
+	gm_DUT:	Yield	100%
+		Min 0.000430216	Max 0.00044592	Mean 0.000437215	Number of errors 0
+215E_check_moschara_1	nom - 
+	gmoverid_DUT:	Yield	100%
+		Min 2.05728	Max 2.33008	Mean 2.19409	Number of errors 0
+215E_check_moschara_1	nom - 
+	id_DUT:	Yield	100%
+		Min 0.000188587	Max 0.000209141	Mean 0.000199357	Number of errors 0
+215E_check_moschara_1	nom - 
+	ids_DUT:	Yield	100%
+		Min 0.000188587	Max 0.000209141	Mean 0.000199357	Number of errors 0
+215E_check_moschara_1	nom - 
+	region_DUT:	Yield	100%
+		Min 2	Max 2	Mean 2	Number of errors 0
+215E_check_moschara_1	nom - 
+	ron_DUT:	Yield	100%
+		Min 2390.74	Max 2651.3	Mean 2509.03	Number of errors 0
+215E_check_moschara_1	nom - 
+	rout_DUT:	Yield	100%
+		Min 7403.41	Max 8262.76	Mean 7783.31	Number of errors 0
+215E_check_moschara_1	nom - 
+	self_gain_DUT:	Yield	100%
+		Min 3.18539	Max 3.6096	Mean 3.40315	Number of errors 0
+215E_check_moschara_1	nom - 
+	vds_DUT:	Yield	100%
+		Min 0.5	Max 0.5	Mean 0.5	Number of errors 0
+215E_check_moschara_1	nom - 
+	vdsat_DUT:	Yield	100%
+		Min 0.321122	Max 0.341463	Mean 0.330621	Number of errors 0
+215E_check_moschara_1	nom - 
+	vgs_DUT:	Yield	100%
+		Min 1.10136	Max 1.13719	Mean 1.11668	Number of errors 0
+215E_check_moschara_1	nom - 
+	vth_DUT:	Yield	100%
+		Min 0.596791	Max 0.628783	Mean 0.610425	Number of errors 0
+
+215E_check_moschara_1
+	Overall Yield	100%	Number of points passed	200	Total number of points	200
+
+Estimated yield = 100% (200/200), 0 errors
+Estimated yield (No opregions) = 100% (200/200)
