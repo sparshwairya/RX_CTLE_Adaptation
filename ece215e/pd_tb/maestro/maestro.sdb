@@ -32,13 +32,16 @@
 				</tooloptions>
 				<vars>
 					<var>tb
-						<value>100p 125p 83.33p</value>
+						<value>83.33p 90.91p 100p 111.11p 125p</value>
 					</var>
 					<var>VCC
-						<value>1.1 1.05 1.2</value>
+						<value>1.1</value>
 					</var>
 					<var>Vin_l
-						<value>0.88 0.83 0.98</value>
+						<value>0.88</value>
+					</var>
+					<var>I
+						<value>250u</value>
 					</var>
 				</vars>
 				<outputs>
@@ -115,6 +118,8 @@
 		<incrementalsimulationoptions>
 			<incrementalSimulation>0</incrementalSimulation>
 		</incrementalsimulationoptions>
+		<jobpolicyname>Maestro Default</jobpolicyname>
+		<netlistjobpolicyname>Netlisting Default</netlistjobpolicyname>
 	</active>
 	<history>History
 	</history>

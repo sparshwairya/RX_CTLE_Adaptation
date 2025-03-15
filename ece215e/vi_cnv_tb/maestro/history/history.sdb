@@ -2,9 +2,33 @@
 <setupdb version="7">history
 	<active>Active Setup</active>
 	<history>History
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.0
+			<timestamp>Mar 6 15:01:32 2025</timestamp>
+			<uuid>{a3b3e990-4a67-4f2e-87bb-8b50c33622bb}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/w/home.26/home/sparshwairya/simulation/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="running">Interactive.1
+			<timestamp>Mar 6 15:07:12 2025</timestamp>
+			<uuid>{492c08f2-c90a-4c94-b6f0-1a0307a3f59b}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/w/home.26/home/sparshwairya/simulation/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Mar 2 17:24:10 2025</timestamp>
-			<uuid>{98bd21f1-8142-4ccf-8c77-93627ee33aa3}</uuid>
+			<timestamp>Mar 14 17:56:46 2025</timestamp>
+			<uuid>{be2071ad-22d5-4411-a64c-114da4a0e362}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
 			<resultsname>/w/home.26/home/sparshwairya/ece215e/ece215e/vi_cnv_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>

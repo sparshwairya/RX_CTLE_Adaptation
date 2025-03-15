@@ -35,16 +35,40 @@
 					<output>((VT("/net1")**2) - (VT("/net2")**2))
 						<evalType>point</evalType>
 					</output>
+					<output>average(clip(VT("/Vctrl") 2e-07 5e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(VT("/Vctrl") 5e-07 5e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(VT("/Vctrl") 5e-07 2e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(IT("/C0/PLUS") 5e-07 2e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip(IT("/net1") 2e-07 1e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/VOUT1") - VT("/VOUT2")) 1e-07 1e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/net1") - VT("/net2")) 1e-07 1e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/net1") - VT("/net2")) 5e-07 2e-06))
+						<evalType>point</evalType>
+					</output>
 				</outputs>
 				<vars>
 					<var>Tb
-						<value>100p 125p 83.33p</value>
+						<value>100p</value>
 					</var>
 					<var>VCC
-						<value>1.1 1.05</value>
+						<value>1.1</value>
 					</var>
 					<var>Vin_low
-						<value>0.88 0.83</value>
+						<value>0.88</value>
 					</var>
 				</vars>
 				<variablesets>
@@ -110,6 +134,29 @@
 			<copyreferenceresults>1</copyreferenceresults>
 		</incrementalsimsetup>
 		<overwritehistoryname>ExplorerRun.0</overwritehistoryname>
+		<vars>
+			<var enabled="1">Vin_low
+				<value>0.88 0.83</value>
+				<dependentTests>
+					<dependentTest omitted="0">ece215e_vi_cnv_tb_1</dependentTest>
+				</dependentTests>
+			</var>
+			<var enabled="1">VCC
+				<value>1.1 1.05</value>
+				<dependentTests>
+					<dependentTest omitted="0">ece215e_vi_cnv_tb_1</dependentTest>
+				</dependentTests>
+			</var>
+			<var enabled="1">Tb
+				<value>100p 125p 83.33p</value>
+				<dependentTests>
+					<dependentTest omitted="0">ece215e_vi_cnv_tb_1</dependentTest>
+				</dependentTests>
+			</var>
+		</vars>
+		<incrementalsimulationoptions>
+			<incrementalSimulation>0</incrementalSimulation>
+		</incrementalsimulationoptions>
 	</active>
 	<history>History
 	</history>
