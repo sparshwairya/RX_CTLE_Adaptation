@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Mar 15 21:20:57 2025 
+Best design point: 1
+Design specs: 
+	215E_check_pd_tb_guru_HPF_LPF_1	corner	Nominal - 
+	average(clip((vtime('tran "/VOUT2") - vtime('tran "/VOUT1")) 3e-06 5.5e-06))		956.3u
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Sat Mar 15 21:23:30 2025 
