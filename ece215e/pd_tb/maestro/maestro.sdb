@@ -63,26 +63,26 @@
 				</tooloptions>
 				<vars>
 					<var>tb
-						<value>111.1p 100p</value>
+						<value>90.9p 100p 111.1p 125p 142.8p</value>
 					</var>
 					<var>VCC
 						<value>1.1</value>
 					</var>
 					<var>Vin_l
-						<value>0.88</value>
-					</var>
-					<var>I
-						<value>250u</value>
-					</var>
-					<var>w
-						<value>2u</value>
+						<value>650m</value>
 					</var>
 				</vars>
 				<outputs>
-					<output>average(clip((VT("/VOUT1") + VT("/VOUT2")) 1e-07 1e-06))
+					<output>psd((VT("/VIN1")) 1e-07 1e-06 512 ?windowName "Hanning" ?smooth 1 ?windowSize 256 ?detrending "None" ?cohGain 1)
 						<evalType>point</evalType>
 					</output>
-					<output>psd((VT("/VIN1")) 1e-07 1e-06 512 ?windowName "Hanning" ?smooth 1 ?windowSize 256 ?detrending "None" ?cohGain 1)
+					<output>average(clip((VT("/VOUT1") - VT("/VOUT2")) 1e-07 2e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/VOUT1") - VT("/VOUT2")) 1e-07 1e-06))
+						<evalType>point</evalType>
+					</output>
+					<output>average(clip((VT("/VOUT1") - VT("/VOUT2")) 1.2e-07 1e-06))
 						<evalType>point</evalType>
 					</output>
 				</outputs>
