@@ -26,7 +26,7 @@
 			<psfdir>/w/home.26/home/sparshwairya/simulation/ece215e/pd_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/ece215e/pd_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 		</historyentry>
-		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="running">ExplorerRun.0
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
 			<timestamp>Mar 16 19:21:50 2025</timestamp>
 			<uuid>{ac88c066-5266-49d0-8f87-004a49b90818}</uuid>
 			<locked>0</locked>
